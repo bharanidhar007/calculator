@@ -67,3 +67,10 @@ button{
 button:last-child{
     background-color: rgb(255, 153, 0);
 }
+
+#id0{
+    width: 104px;
+    border-radius: 25px;
+    text-align: start;
+    padding-left: 20px;
+}
